@@ -1,2 +1,3 @@
 hello world
 I am a smart person
+this is 3 line
